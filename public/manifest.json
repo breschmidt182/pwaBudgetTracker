@@ -1,0 +1,28 @@
+{
+  "name": "Budget App",
+  "short_name": "Budget App",
+  "icons": [
+    {
+      "src": "icons/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    
+    // TODO: add icon objects for all other icons contained in the icons folder.
+    // REMOVE THIS comment completely when done, as comments break JSON files.
+
+  ],
+  "theme_color": "#ffffff",
+
+  // TODO: specify a background color attribute of "#ffffff"
+  // REMOVE THIS comment completely when done, as comments break JSON files.
+
+  
+  "start_url": "/",
+  "display": "standalone"
+}
